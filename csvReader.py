@@ -55,7 +55,8 @@ class CSVReader():
                 json_object = json.dumps(self.finalDict, indent = 4)
                 with open("output.json", "w") as outfile: 
                     outfile.write(json_object)
-                logging.info('File output.json write successfully') 
+                logging.info('File output.json write successfully')
+                print('\'output.json\' file created at same location')
  
         except FileNotFoundError:
             logging.error('File ' +path+ ' not found.')
