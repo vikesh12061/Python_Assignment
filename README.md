@@ -25,9 +25,8 @@ Run Command on same project location
 
 
 # To change different input CSV file
+Specify your input CSV file path at entry point of CSVReader application,
 Currently it takes the data.csv file from same location
-Specify your input CSV file path at entry point of CSVReader application
-
 ```
 e.g.
 	if __name__ == '__main__':
