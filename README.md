@@ -12,7 +12,7 @@ Run Command
 	python csvReader.py
 ```
 
-Ouput
+# Ouput
 1. It create a 'output.json' file in same folder location
 2. It create a 'csvReaderLog.log' file same folder location
 
