@@ -7,7 +7,7 @@ Python, as a high level programming language, allows you to focus on core functi
 
 
 # How to Run
-Run Command 
+Run Command on same project location
 ```
 	python csvReader.py
 ```
@@ -17,7 +17,7 @@ Run Command
 2. It create a 'csvReaderLog.log' file same folder location
 
 # Unit Testing
-Run Command 
+Run Command on same project location
 ```
 	python -m unittest test_csvReader.py
 ```
