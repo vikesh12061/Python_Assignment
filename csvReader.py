@@ -67,6 +67,6 @@ class CSVReader():
 
 
 if __name__ == '__main__':
-    r = CSVReader('F:\Software\data4.csv') 
+    r = CSVReader('data.csv') 
 
 
